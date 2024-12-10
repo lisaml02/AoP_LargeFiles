@@ -1,0 +1,7 @@
+Model,Validation Accuracy,Validation Loss,Training Accuracy,Training Loss
+Early Fusion Baseline,50.25,0.6932,60.0,0.69
+Late Fusion Baseline,49.25,0.6933,58.0,0.692
+Progressive Fusion Baseline,49.72,0.6932,59.5,0.6895
+Progressive Fusion Small Batch,50.35,0.6918,61.2,0.688
+Progressive Fusion Tuned,50.79,0.6905,62.8,0.686
+Shallow Progressive Fusion,51.2,0.7386,63.5,0.6855
